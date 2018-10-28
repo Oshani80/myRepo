@@ -21,7 +21,7 @@ public class LoginPageTest extends TestBase {
 		initialization();   
 	    logingPage = new LoginPage();
 	}
-	
+	//sdfguhiojpkjoihubguvfycdfvgbhnjkopkojoih
 //	@Test(priority=1)
 //	public void loginPageTitleTest() {
 //		String title =logingPage.validateLoginPageTitle();
